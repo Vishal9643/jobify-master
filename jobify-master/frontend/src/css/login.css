@@ -1,0 +1,14 @@
+.login{
+ width: 30%;
+ margin-top: 10%;
+ background-color: white;
+ border-radius: 3%;
+ border-top:6px solid rgb(80, 185, 192);
+ height: 400px;
+}
+.login p{
+ margin-top: 5%;
+}
+.login .container{
+ margin-top: 9%;
+}
